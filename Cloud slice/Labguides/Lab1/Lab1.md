@@ -603,11 +603,11 @@ warehouse.
 
      ![](./media/image119.png)
 
-1. Update the connections for data loading (ETL/ELT) platforms to point to your Fabric warehouse:
-
-    - For Power BI and Fabric pipelines, use the [List Connections REST API](https://learn.microsoft.com/en-us/rest/api/fabric/core/connections/list-connections?tabs=HTTP) to find connections to your old data source, the Azure Synapse Analytics dedicated SQL pool.
-
-    - Update the connections to the new Fabric data warehouse using **Manage Connections and Gateways** under the **Settings** gear.
+     >**Note:** You can update the connections for data loading (ETL/ELT) platforms to point to your Fabric warehouse:
+     
+         - For Power BI and Fabric pipelines, use the [List Connections REST API](https://learn.microsoft.com/en-us/rest/api/fabric/core/connections/list-connections?tabs=HTTP) to find connections to your old data source, the Azure Synapse Analytics dedicated SQL pool.
+     
+         - Update the connections to the new Fabric data warehouse using **Manage Connections and Gateways** under the **Settings** gear.
 
 1. Once complete, check the **Reroute connections** step in the Migration Assistant.
 
