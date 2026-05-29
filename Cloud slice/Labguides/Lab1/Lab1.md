@@ -223,6 +223,10 @@ By the end of this lab, you will be able to:
 
      ![](./media/image53.png)
 
+1. Click **Open** next to **Source Dataset**
+
+     ![](./media/edit.png)
+
 1. Go to the **Connection (1)** tab, configure the file settings such as delimiter and encoding, and ensure the **Escape character** is set to **Double quote (") (2)** for correct data parsing.
 
      ![](./media/new3.png)
