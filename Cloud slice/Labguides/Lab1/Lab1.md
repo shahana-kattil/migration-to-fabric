@@ -239,6 +239,8 @@ By the end of this lab, you will be able to:
 
      ![](./media/image56.png)
 
+ 1. In **Set properties** pane, click **+ New** under **Linked service**
+
 1. In the **New Linked Service** setup pane, configure the connection to the Synapse SQL dedicated pool by adding the following details:
 
     - **Azure subscription**: Select your subscription from the drop-down **(1)** 
